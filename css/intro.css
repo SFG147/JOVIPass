@@ -1,0 +1,233 @@
+@charset "utf-8";
+/* Simple fluid media
+   Note: Fluid media requires that you remove the media's height and width attributes from the HTML
+   http://www.alistapart.com/articles/fluid-images/ 
+*/
+
+@font-face {
+    font-family: Quinfo;
+	src:url(../fonts/quinfo/Quinfo.woff);
+}
+
+img, object, embed, video {
+	max-width: 100%;
+}
+
+/* IE 6 does not support max-width so default to width 100% */
+.ie6 img {
+	width:100%;
+}
+
+/*
+	Dreamweaver Fluid Grid Properties
+	----------------------------------
+	dw-num-cols-mobile:		4;
+	dw-num-cols-tablet:		8;
+	dw-num-cols-desktop:	12;
+	dw-gutter-percentage:	25;
+	
+	Inspiration from "Responsive Web Design" by Ethan Marcotte 
+	http://www.alistapart.com/articles/responsive-web-design
+	
+	and Golden Grid System by Joni Korpi
+	http://goldengridsystem.com/
+*/
+
+.fluid {
+	clear: both;
+	margin-left: 0;
+	width: 100%;
+	float: left;
+	display: block;
+}
+
+.fluidList {
+    list-style:none;
+    list-style-image:none;
+    margin:0;
+    padding:0;        
+}
+
+/* Mobile Layout: 480px and below. */
+  
+.gridContainer {
+	/*margin-left: auto;
+	margin-right: auto;*/
+	width: 100%;
+	/*padding-left: 2.275%;
+	padding-right: 2.275%;*/
+	clear: none;
+	float: none;
+}
+#div1 {
+}
+.zeroMargin_mobile {
+    margin-left: 0;
+}
+.hide_mobile {
+    display: none;
+}
+
+.title{
+	font-size: 30px;
+	font-family: Quinfo;
+	color: #8FFFFF;
+	-webkit-stroke-width: 5.3px;
+	-webkit-stroke-color: #FFFFFF;
+	-webkit-fill-color: #FFFFFF;
+	text-shadow: 0px 0px 3px #9FFFFF;
+	-webkit-transition: width 1.3s; /*Safari & Chrome*/
+	transition: width 1.3s;
+	-moz-transition: width 0.3s; /* Firefox 4 */
+	-o-transition: width 0.3s; /* Opera */
+	font-weight: 100;
+	text-decoration: none;
+	text-align: center;
+}
+
+#section {
+	padding: 10px 0px 0px 0px;
+	width:80%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+#section_body {
+	vertical-align:middle;
+	padding: 0px 0px 0px 0px;
+	width:80%;
+	padding-left: 10%;
+	padding-right: 10%;
+	
+}
+
+
+/* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
+
+@media only screen and (min-width: 481px) {
+
+.gridContainer {
+	width: 100%;
+	padding-left: 0%;
+	padding-right: 0%;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#div1 {
+}
+.zeroMargin_tablet {
+    margin-left: 0;
+}
+.hide_tablet {
+    display: none;
+}
+
+#section {
+	padding: 10px 0px 0px 0px;
+	width:70%;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+#section_body {
+	padding: 0px 0px 0px 0px;
+	width:80%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.title{
+	font-size: 50px;
+}
+}
+
+/* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
+
+@media only screen and (min-width: 769px) {
+.gridContainer {
+	width: 100%;
+	max-width: 2000px;
+	padding-left: 0%;
+	padding-right: 0%;
+	margin: auto;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#div1 {
+}
+.zeroMargin_desktop {
+    margin-left: 0;
+}
+.hide_desktop {
+    display: none;
+}
+
+#section {
+	padding: 10px 0px 0px 0px;
+	width:80%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+#section_body {
+	padding: 0px 0px 0px 0px;
+	width:80%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.title{
+	font-size: 90px;
+}
+}
+
+html {
+	background-color:#000;
+}
+
+body {
+	width:100%;
+}
+
+.header {
+	background-color:#099;
+	text-align:center;
+}
+a {
+	color:#C5F5ec;
+	text-decoration: none;
+}
+
+.ht1 {
+	font-size: 20px;
+	color: #9fffff;
+}
+
+#section_flash {
+	width: 80%;
+	padding-top: 2%;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: center;
+}
+
+
+.vid_thumb{
+	display: inline-block;
+	display: inline;
+	white-space: nowrap;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+}
+
+#horiz_scroll{
+    background-color:#000;
+    text-align:center;
+    font-size:16px;
+    overflow-x:scroll;
+	white-space:nowrap
+}

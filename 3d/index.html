@@ -1,0 +1,153 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JOVI*2018 - 3D*Animation</title>
+<link href="../css/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="../css/intro.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="../js/respond.min.js"></script>
+<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
+		<script type="text/javascript">
+		<!--
+		var unityObjectUrl = "http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js";
+		if (document.location.protocol == 'https:')
+			unityObjectUrl = unityObjectUrl.replace("http://", "https://ssl-");
+		document.write('<script type="text\/javascript" src="' + unityObjectUrl + '"><\/script>');
+		-->
+		</script>
+		<script type="text/javascript">
+		<!--
+			var config = {
+				width: 960, 
+				height: 500,
+				params: { enableDebugging:"0" }
+				
+			};
+			var u = new UnityObject2(config);
+			
+			jQuery(function() {
+
+				var $missingScreen = jQuery("#unityPlayer").find(".missing");
+				var $brokenScreen = jQuery("#unityPlayer").find(".broken");
+				$missingScreen.hide();
+				$brokenScreen.hide();
+
+				u.observeProgress(function (progress) {
+					switch(progress.pluginStatus) {
+						case "broken":
+							$brokenScreen.find("a").click(function (e) {
+								e.stopPropagation();
+								e.preventDefault();
+								u.installPlugin();
+								return false;
+							});
+							$brokenScreen.show();
+						break;
+						case "missing":
+							$missingScreen.find("a").click(function (e) {
+								e.stopPropagation();
+								e.preventDefault();
+								u.installPlugin();
+								return false;
+							});
+							$missingScreen.show();
+						break;
+						case "installed":
+							$missingScreen.remove();
+						break;
+						case "first":
+						break;
+					}
+				});
+				u.initPlugin(jQuery("#unityPlayer")[0], "3dpiece.unity3d");
+			});
+		-->
+		</script>
+<style type="text/css">
+		<!--
+		div.content {
+			margin: auto;
+			width: 1000px;
+		}
+		div.broken,
+		div.missing {
+			margin: auto;
+			position: relative;
+			top: 50%;
+			width: 193px;
+		}
+		div.broken a,
+		div.missing a {
+			height: 63px;
+			position: relative;
+			top: -31px;
+		}
+		div.broken img,
+		div.missing img {
+			border-width: 0px;
+		}
+		div.broken {
+			display: none;
+		}
+		div#unityPlayer {
+			cursor: default;
+			height: 200px;
+			width: 960px;
+		}
+		-->
+		</style>
+
+</head>
+<body>
+<div class="gridContainer clearfix">
+<div id="div1" class="fluid">
+  
+  <div class="header">
+  <a class="ht1" href="../index.html">The Portfolio of Jameshia Jackson 2015</a>
+  </div>
+  <div id="section" > 
+  <p class="title">3D*Animation</p>
+  </div>
+  <div id="section_body" > 
+  <div style="max-width: 950px; width: 100%; vertical-align:top; margin:auto"> 
+  <p class="body_copy">Phasellus porta aliquet purus at egestas. Nam viverra orci eu tortor egestas dictum. Nullam accumsan, lacus in viverra consectetur, augue elit consequat arcu, ut consequat elit sapien eget elit. Curabitur quis erat gravida, ornare magna ac, finibus metus. Nam luctus semper suscipit. Etiam efficitur ut sapien sit amet mollis. Aliquam imperdiet velit nec arcu pellentesque efficitur.</p><br></div>
+  
+ 
+  	<div class="content">
+			<div id="unityPlayer">
+			  <div class="missing">
+				  <a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now!">
+					  <img alt="Unity Web Player. Install now!" src="http://webplayer.unity3d.com/installation/getunity.png" width="193" height="63" />
+				  </a>
+				</div>
+		  </div>
+		</div>
+        
+ 
+     
+</div>
+</div>
+
+
+
+</body>
+</html>

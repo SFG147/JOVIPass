@@ -1,0 +1,64 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <menuItems>
+ 	<listItem>
+ 		<label>Scan For Planets</label>
+ 		<swf>./work/sfp.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>Plumbing Pipe Quiz</label>
+ 		<swf>./work/pipe_quiz.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>Custom Rewind Sequence</label>
+ 		<swf>./work/meshaSequence.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>Modulated Quiz</label>
+ 		<swf>./work/mod_quiz.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>Atmosphere Slider</label>
+ 		<swf>./work/atmosphereSlider.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>Camera Info Page</label>
+ 		<swf>./work/CameraSitPage.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>Latency Dashboard</label>
+ 		<swf>./work/dashboard.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>Patient Accessment Demo</label>
+ 		<swf>./work/hospital.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>Document Disposal Demo</label>
+ 		<swf>./work/office.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>File Location Demo</label>
+ 		<swf>./work/office2.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>11</label>
+ 		<swf>./work/gui_start_page.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>12</label>
+ 		<swf>./work/gui_start_page.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>13</label>
+ 		<swf>./work/gui_start_page.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>14</label>
+ 		<swf>./work/gui_start_page.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>15</label>
+ 		<swf>./work/gui_start_page.swf</swf>
+ 	</listItem>
+ 	
+ </menuItems>

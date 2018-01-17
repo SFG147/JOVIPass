@@ -1,0 +1,152 @@
+@font-face {
+    font-family: Quinfo;
+	src:url(../fonts/quinfo/Quinfo.woff);
+}
+
+body{
+	background-color:#099;
+}
+
+a {
+	color:#9ffffff;
+	text-decoration:none;
+}
+
+a:visited{
+	
+}
+
+.readable {
+	letter-spacing: 1px;
+}
+
+
+/* Header */
+.large-header {
+	position: relative;
+	width: 100%;
+	background: #333;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	z-index: 1;
+}
+
+.demo-2 .large-header {
+	background-image: url('../img/startPage_bg.jpg');
+	background-position: center bottom;
+}
+
+.main-title {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	color: #f9f1e9;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate3d(-50%,-50%,0);
+	transform: translate3d(-50%,-50%,0);
+}
+
+.demo-2 .main-title {
+	font-weight: normal;
+	font-size: 12px;
+	padding-left: 10px;
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+	font-family: Quinfo;
+}
+
+.demo-2 .main-title::before {
+	content: '';
+	width: 20vw;
+	height: 20vw;
+	min-width: 3.5em;
+	min-height: 3.5em;
+	/*background: url(../img/deco.svg) no-repeat center center;*/
+	background-size: cover;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	border-radius: 50%;
+	z-index: -1;
+	-webkit-transform: translate3d(-50%,-50%,0);
+	transform: translate3d(-50%,-50%,0);
+}
+
+
+.main-title .thin {
+	font-weight: 200;
+}
+
+@media only screen and (max-width : 768px) {
+
+	.demo-2 .main-title {
+		font-size: 12px;
+	}
+}
+
+/*Buttons for Start Page.*/
+#tb {
+	/*height: 60px;
+	width: 255px;*/
+	margin: 0px 0px 30px 240px;
+	text-align:left;
+	font-size:14px;
+}
+.start-page-button1 {
+	
+}
+
+.start-page-button1:hover {
+	-webkit-stroke-width: 5.3px;
+	-webkit-stroke-color: #FFFFFF;
+	-webkit-fill-color: #FFFFFF;
+	text-shadow: 0px 0px 3px #9FFFFF;
+	-webkit-transition: width 0.3s; /*Safari & Chrome*/
+	transition: width 0.3s;
+	-moz-transition: width 0.3s; /* Firefox 4 */
+	-o-transition: width 0.3s; /* Opera */
+}
+
+#head{
+	font-size: 45px;
+	color: #9fffff;
+}
+#tail{
+	font-size:20px;
+	color: #fff;
+}
+
+
+/*Standard CSS*/
+.body_center {
+	text-align: center;
+	font-family:Quinfo;
+	font-size: 10px;
+	color: #000;
+	font-weight:200;
+	}
+#secondary{
+}
+
+@media only screen and (max-width: 481px) {
+#head{
+	font-size: 25px;
+	color: #9fffff;
+}
+#tail{
+	font-size: 10px;
+	color: #fff;
+}
+.main-title{
+	margin-top: 50px;
+	margin-left: -35px;
+}
+#tb {
+	/*height: 60px;
+	width: 255px;*/
+
+	font-size:8px;
+}
+}

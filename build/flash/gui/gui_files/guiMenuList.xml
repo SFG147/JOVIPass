@@ -1,0 +1,23 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <menuItems>
+ 	<listItem>
+ 		<label>Scan For Planets</label>
+ 		<swf>./work/sfp.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>2</label>
+ 		<swf>./work/test.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>3</label>
+ 		<swf>./work/test.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>4</label>
+ 		<swf>./work/test.swf</swf>
+ 	</listItem>
+ 	<listItem>
+ 		<label>5</label>
+ 		<swf>./work/test.swf</swf>
+ 	</listItem>
+ </menuItems>

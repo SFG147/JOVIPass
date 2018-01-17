@@ -1,0 +1,15 @@
+Atmosphere layers
+
+Earth's atmosphere is divided into five main layers, the exosphere, the thermosphere, the mesosphere, the stratosphere and the troposphere. The atmosphere thins out in each higher layer until the gases dissipate in space. There is no distinct boundary between the atmosphere and space, but an imaginary line about 68 miles (110 kilometers) from the surface, called the Karman line, is usually where scientists say atmosphere meets outer space.
+
+TROPOSPHERE SeaLevel - 15
+
+The troposphere is the layer closest to Earth's surface. It is 4 to 12 miles (7 to 20 km) thick and contains half of Earth's atmosphere. Air is warmer near the ground and gets colder higher up. Nearly all of the water vapor and dust in the atmosphere are in this layer and that is why clouds are found here.
+
+The stratosphere is the second layer. It starts above the troposphere and ends about 31 miles (50 km) above ground. Ozone is abundant here and it heats the atmosphere while also absorbing harmful radiation from the sun. The air here is very dry, and it is about a thousand times thinner here than it is at sea level. Because of that, this is where jet aircraft and weather balloons fly.
+
+The mesosphere starts at 31 miles (50 km) and extends to 53 miles (85 km) high. The top of the mesosphere, called the mesopause, is the coldest part of Earth's atmosphere with temperatures averaging about minus 130 degrees F (minus 90 C). This layer is hard to study. Jets and balloons don't go high enough, and satellites and space shuttles orbit too high. Scientists do know that meteors burn up in this layer.
+
+The thermosphere extends from about 56 miles (90 km) to between 310 and 620 miles (500 and 1,000 km). Temperatures can get up to 2,700 degrees F (1,500 C) at this altitude. The thermosphere is considered part of Earth's atmosphere, but air density is so low that most of this layer is what is normally thought of as outer space. In fact, this is where the space shuttles flew and where the International Space Station orbits Earth. This is also the layer where the auroras occur. Charged particles from space collide with atoms and molecules in the thermosphere, exciting them into higher states of energy. The atoms shed this excess energy by emitting photons of light, which we see as the colorful Aurora Borealis and Aurora Australis.
+
+The exosphere, the highest layer, is extremely thin and is where the atmosphere merges into outer space. It is composed of very widely dispersed particles of hydrogen and helium.
