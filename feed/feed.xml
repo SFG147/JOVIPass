@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>Title of Podcast</title>
-<link>https://sfg147.github.io/JOVIPass/</link>
+<link>https://sfg147.github.io/JOVIPass/feed</link>
 <language>en-us</language>
 <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
 <itunes:author>Author Name</itunes:author>
@@ -22,7 +22,7 @@
     <itunes:summary>Description of podcast episode content</itunes:summary>
     <description>Description of podcast episode content</description>
     <link>https://sfg147.github.io/JOVIPass/</link>
-    <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Marco.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Marco.mp3" type="audio/mp3" length="1024"></enclosure>
     <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>00:32:16</itunes:duration>
