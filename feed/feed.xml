@@ -16,7 +16,7 @@
 <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast.JPG" />
 <itunes:category text="Category Name">Life</itunes:category>
 
-<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+
 <item>
     <title>Title of Podcast Episode</title>
     <itunes:summary>Description of podcast episode content</itunes:summary>
@@ -29,7 +29,6 @@
     <itunes:explicit>no</itunes:explicit>
     <guid>https://sfg147.github.io/JOVIPass/</guid>
 </item> 
-<!--END REPEAT--> 
    
 </channel>
 </rss>
