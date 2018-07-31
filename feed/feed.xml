@@ -13,18 +13,19 @@
     <itunes:email></itunes:email>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast.JPG" />
+<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast.jpg" />
 <itunes:category text="Social"></itunes:category>
 
 
 <item>
-    <title>Title of Podcast Episode</title>
-    <itunes:summary>Description of podcast episode content</itunes:summary>
-    <description>Description of podcast episode content</description>
+    <title>Get the Word of God in Your Heart</title>
+    <itunes:summary>Sermon: Eld. Joshua C. Jackson</itunes:summary>
+    <description>Subject: Get the Word of God in Your Heart
+</description>
     <link>https://sfg147.github.io/JOVIPass/</link>
     <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Marco.mp3" type="audio/mp3" length="1024"></enclosure>
     <pubDate>Tue, 31 Jul 2018 12:20:00 +0000</pubDate>
-    <itunes:author>Author Name</itunes:author>
+    <itunes:author></itunes:author>
     <itunes:duration>00:32:16</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <guid>https://sfg147.github.io/JOVIPass/</guid>
