@@ -9,12 +9,14 @@
 <itunes:summary>Messages and audiocasts from Salt around the world.</itunes:summary>
 <description>Matthew 5:13 : We are the salt of the earth! This podcast is just sprinkling a little of the flavor of God to the world. This podcast shares messages from preachers and teachers around the world.</description>
 <itunes:owner>
+    <itunes:author>/JOVI</itunes:author>
     <itunes:name>JOVI</itunes:name>
     <itunes:email></itunes:email>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
 <itunes:category text="Social"></itunes:category>
+
 
 
 <item>
