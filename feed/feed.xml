@@ -38,6 +38,18 @@
         <pubDate>Thu Dec 06 2018 21:35:05 GMT-0500 (Eastern Standard Time)</pubDate>
         <itunes:duration>00:43:33</itunes:duration>
       </item>
+	  
+      <item>
+        <title>Real Riches</title>
+        <itunes:author>JOVI</itunes:author>
+        <itunes:subtitle>Sermon: Eld. Joshua C. Jackson - Subject: Real Riches</itunes:subtitle>
+        <itunes:summary>Sermon: Eld. Joshua C. Jackson - Subject: Real Riches</itunes:summary>
+        <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+        <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Real_Riches.mp3" length="44 Min," type="audio/mpeg"/>
+        <guid>ea43f9a2-f498-4ee0-be8d-22f1985a0203</guid>
+        <pubDate>Thu Dec 06 2018 21:38:05 GMT-0500 (Eastern Standard Time)</pubDate>
+        <itunes:duration>00:43:33</itunes:duration>
+      </item>
     
   </channel>
   </rss>
