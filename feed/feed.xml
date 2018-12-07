@@ -17,13 +17,25 @@
     
       <item>
         <title>Get the Word of God in Your Heart</title>
-        <itunes:author>Sermon: Eld. Joshua C. Jackson</itunes:author>
+        <itunes:author>JOVI</itunes:author>
         <itunes:subtitle>Sermon</itunes:subtitle>
         <itunes:summary>Sermon: Eld. Joshua C. Jackson - Subject: Get the Word of God in Your Heart</itunes:summary>
         <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
         <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Get_the_Word_of_God_in_Your_Heart.mp3" length="44 Min," type="audio/mpeg"/>
         <guid>429f1b6a-7860-475c-b412-26f35e814b69</guid>
         <pubDate>Thu Dec 06 2018 21:31:05 GMT-0500 (Eastern Standard Time)</pubDate>
+        <itunes:duration>00:43:33</itunes:duration>
+      </item>
+
+	<item>
+        <title>Faith Without Works is Dead</title>
+        <itunes:author>JOVI</itunes:author>
+        <itunes:subtitle>Sermon</itunes:subtitle>
+        <itunes:summary>Sermon: Eld. Jameshia D. Jackson - Subject: Faith Without Works is Dead</itunes:summary>
+        <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+        <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Faith_Without_Works_is_Dead.mp3" length="44 Min," type="audio/mpeg"/>
+        <guid>bab2f96c-6133-41ad-9f16-a7e2afe10194</guid>
+        <pubDate>Thu Dec 06 2018 21:35:05 GMT-0500 (Eastern Standard Time)</pubDate>
         <itunes:duration>00:43:33</itunes:duration>
       </item>
     
