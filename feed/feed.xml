@@ -50,6 +50,18 @@
         <pubDate>Thu Dec 06 2018 21:38:05 GMT-0500 (Eastern Standard Time)</pubDate>
         <itunes:duration>00:43:33</itunes:duration>
       </item>
+	  
+     <item>
+        <title>Jesus is the Reason for the Season</title>
+        <itunes:author>JOVI</itunes:author>
+        <itunes:subtitle>Sermon: Eld. Joshua C. Jackson - Subject: Jesus is the Reason for the Season</itunes:subtitle>
+        <itunes:summary>Sermon: Eld. Joshua C. Jackson - Subject: Jesus is the Reason for the Season</itunes:summary>
+        <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+        <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Jesus_is_the_Reason_for_the_Season.mp3" length="44 Min," type="audio/mpeg"/>
+        <guid>15e9cd2e-9c0c-4512-b091-678e4b916087</guid>
+        <pubDate>Thu Dec 06 2018 21:40:05 GMT-0500 (Eastern Standard Time)</pubDate>
+        <itunes:duration>00:43:33</itunes:duration>
+      </item>
     
   </channel>
   </rss>
