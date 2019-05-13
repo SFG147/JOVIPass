@@ -125,6 +125,18 @@
         <pubDate>Thu May 09 2019 13:30:00 GMT-0130 (Eastern Standard Time)</pubDate>
         <itunes:duration>00:49:05</itunes:duration>
       </item>
+	  
+	  <item>
+        <title>Another Gospel</title>
+        <itunes:author>JOVI</itunes:author>
+        <itunes:subtitle>Sermon: Pst. Jameshia Jackson - Subject: Another Gospel</itunes:subtitle>
+        <itunes:summary>Sermon: Pst. Jameshia Jackson - Subject: Another Gospel</itunes:summary>
+        <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+        <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Another_Gospel_1.mp3" length="50 Min," type="audio/mpeg"/>
+        <guid>0e8ca1f1-7c2f-4627-8865-5c3ef68da754</guid>
+        <pubDate>Thu May 13 2019 11:22:00 GMT-0130 (Eastern Standard Time)</pubDate>
+        <itunes:duration>00:49:19</itunes:duration>
+      </item>
 	
 	  
 	
