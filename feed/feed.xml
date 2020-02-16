@@ -139,7 +139,17 @@
       </item>
 	
 	  
-	
+	<item>
+        <title>All We Can Do Is Pray</title>
+        <itunes:author>JOVI</itunes:author>
+        <itunes:subtitle>Sermon: Eld. Joshua Jackson - 2/16/2020</itunes:subtitle>
+        <itunes:summary>Sermon: All We Can Do Is Pray</itunes:summary>
+        <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+        <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/All_We_Can_Do_Is_Pray_EJJ.mp3" length="35 Min," type="audio/mpeg"/>
+        <guid>931e1999-e10d-46f2-bac4-df4eded03f4e</guid>
+        <pubDate>Sun Feb 16 2020 11:22:00 GMT-01200 (Eastern Standard Time)</pubDate>
+        <itunes:duration>00:35:10</itunes:duration>
+      </item>
     
   </channel>
   </rss>
