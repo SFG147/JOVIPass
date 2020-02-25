@@ -150,6 +150,18 @@
         <pubDate>Sun Feb 16 2020 11:22:00 GMT-01200 (Eastern Standard Time)</pubDate>
         <itunes:duration>00:35:10</itunes:duration>
       </item>
+	  
+      <item>
+        <title>Let It Ride, Just Abide in the Ship</title>
+        <itunes:author>JOVI</itunes:author>
+        <itunes:subtitle>Sermon: Pst. Jameshia Jackson - 2/16/2020</itunes:subtitle>
+        <itunes:summary>Sermon: Let It Ride, Just Abide in the Ship</itunes:summary>
+        <itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+        <enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/Let_It_Ride_Just_Abide.mp3" length="45 Min," type="audio/mpeg"/>
+        <guid>931e1999-e10d-46f2-bac4-df4eded03f4e</guid>
+        <pubDate>Sun Feb 25 2020 11:22:00 GMT-01200 (Eastern Standard Time)</pubDate>
+        <itunes:duration>00:45:00</itunes:duration>
+      </item>
     
   </channel>
   </rss>
