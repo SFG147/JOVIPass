@@ -174,6 +174,106 @@
         <pubDate>Sun April 12 2020 11:22:00 GMT-01200 (Eastern Standard Time)</pubDate>
         <itunes:duration>00:45:00</itunes:duration>
       </item>
+	  
+	   <item>
+	<title>Prepaid</title>
+	<itunes:author>JOVI</itunes:author>
+	<itunes:subtitle>Sermon: Eld. Joshua Jackson</itunes:subtitle>
+	<itunes:summary></itunes:summary>
+	<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+	<enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/prepaid_1.mp3" length="" type="audio/mpeg"/>
+	<guid>9decda83-b79b-43de-a09b-471993f54ad3</guid>
+	<pubDate></pubDate>
+	<itunes:duration></itunes:duration>
+  </item>
+  
+   <item>
+	<title>Turn Your Lights On</title>
+	<itunes:author>JOVI</itunes:author>
+	<itunes:subtitle>Sermon: Pst. Jameshia Jackson</itunes:subtitle>
+	<itunes:summary></itunes:summary>
+	<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+	<enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/TurnYourLightsOn_1.mp3" length="" type="audio/mpeg"/>
+	<guid>de8ff611-2991-4a4d-8c12-03e935d2e7be</guid>
+	<pubDate></pubDate>
+	<itunes:duration></itunes:duration>
+  </item>
+  
+   <item>
+	<title>Look At How It Really Is</title>
+	<itunes:author>JOVI</itunes:author>
+	<itunes:subtitle>Sermon: Eld. Joshua Jackson</itunes:subtitle>
+	<itunes:summary></itunes:summary>
+	<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+	<enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/LookAtHowItReallyIs_1.mp3" length="" type="audio/mpeg"/>
+	<guid>6664eea6-6f29-4e5f-9cc2-c44fcc66684f</guid>
+	<pubDate></pubDate>
+	<itunes:duration></itunes:duration>
+  </item>
+  
+     <item>
+	<title>I Will Give You Rest</title>
+	<itunes:author>JOVI</itunes:author>
+	<itunes:subtitle>Sermon: Pst. Jameshia Jackson</itunes:subtitle>
+	<itunes:summary></itunes:summary>
+	<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+	<enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/IWillGiveYouRest_1.mp3" length="" type="audio/mpeg"/>
+	<guid>e8cebbd2-b9a1-458c-a7ab-fed40ed8fea3</guid>
+	<pubDate></pubDate>
+	<itunes:duration></itunes:duration>
+  </item>
+  
+  
+     <item>
+	<title>Keep The Joy</title>
+	<itunes:author>JOVI</itunes:author>
+	<itunes:subtitle>Sermon: Eld. Joshua Jackson</itunes:subtitle>
+	<itunes:summary></itunes:summary>
+	<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+	<enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/KeepTheJoy_1.mp3" length="" type="audio/mpeg"/>
+	<guid>f2ff413e-9256-4b46-84a1-af99411dd202</guid>
+	<pubDate></pubDate>
+	<itunes:duration></itunes:duration>
+  </item>
+  
+  
+     <item>
+	<title>Examples To The World</title>
+	<itunes:author>JOVI</itunes:author>
+	<itunes:subtitle>Sermon: Eld. Joshua Jackson</itunes:subtitle>
+	<itunes:summary></itunes:summary>
+	<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+	<enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/ExamplesToTheWorld_1.mp3" length="" type="audio/mpeg"/>
+	<guid>688d0634-6827-4a49-8e56-16ec9e58fb6e</guid>
+	<pubDate></pubDate>
+	<itunes:duration></itunes:duration>
+  </item>
+  
+  
+  <item>
+	<title>We Will Serve The Lord</title>
+	<itunes:author>JOVI</itunes:author>
+	<itunes:subtitle>Sermon: Eld. Joshua Jackson</itunes:subtitle>
+	<itunes:summary></itunes:summary>
+	<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+	<enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/WeWillServeTheLord_1.mp3" length="" type="audio/mpeg"/>
+	<guid>e188ea7a-8e2e-4a6f-a79a-d06f84c5a4f9</guid>
+	<pubDate></pubDate>
+	<itunes:duration></itunes:duration>
+  </item>
+  
+  
+       <item>
+	<title>Time Of Deception</title>
+	<itunes:author>JOVI</itunes:author>
+	<itunes:subtitle>Sermon: Pst. Jameshia Jackson</itunes:subtitle>
+	<itunes:summary></itunes:summary>
+	<itunes:image href="https://sfg147.github.io/JOVIPass/feed/salt-podcast-icon.jpg" />
+	<enclosure url="https://sfg147.github.io/JOVIPass/feed/mp3/TimeOfDeception_1.mp3" length="" type="audio/mpeg"/>
+	<guid>7e416ac1-e3e1-464c-bc2b-729e8dc41b1e</guid>
+	<pubDate></pubDate>
+	<itunes:duration></itunes:duration>
+  </item>
     
   </channel>
   </rss>
